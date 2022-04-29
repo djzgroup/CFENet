@@ -20,14 +20,14 @@ An Pytorch implementation of our work.
 
 ### Overview code directory:
 
-${ROOT}/
- ├── dataset/
- ├── network/ :contains model definition.
- ├── pretrained_model/ :includes training model.
- ├── train_model/ :includes training model.
- ├── utils/ :contains some utility functions.
- ├── train.py/ : training scripts for building extraction.
- ├── metric.py
+${ROOT}/ \
+ ├── dataset/ \
+ ├── network/ :contains model definition. \
+ ├── pretrained_model/ :includes training model. \
+ ├── train_model/ :includes training model. \
+ ├── utils/ :contains some utility functions. \
+ ├── train.py/ : training scripts for building extraction. \
+ ├── metric.py \
  ├── README.md
 
 ### Implementation details:
@@ -45,9 +45,9 @@ Our proposed method is implemented based on pytorch 1.7.0 and cuda 11.0. An Adam
 
 ### Dataset:
 
-- WHU Building Dataset: download from this link([gpcv.whu.edu.cn/data/building_dataset.html](http://gpcv.whu.edu.cn/data/building_dataset.html)).
+- WHU Building Dataset: download from this link \ ([gpcv.whu.edu.cn/data/building_dataset.html](http://gpcv.whu.edu.cn/data/building_dataset.html)).
   
-- Massachusetts Building Dataset: download from this link([Road and Building Detection Datasets (toronto.edu)](https://www.cs.toronto.edu/~vmnih/data/)).
+- Massachusetts Building Dataset: download from this link \ ([Road and Building Detection Datasets (toronto.edu)](https://www.cs.toronto.edu/~vmnih/data/)).
   
 
 ### References:

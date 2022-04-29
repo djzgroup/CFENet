@@ -38,9 +38,9 @@ Our proposed method is implemented based on pytorch 1.7.0 and cuda 11.0. An Adam
 
 **You can download the trained model to verify our results.**
 
-- Our train_model (CFENet)
+- Our train_model (CFENet)\
   [[CSNetbuilding_extraction.pth]](https://drive.google.com/file/d/1lBFwepbbZjTcmf4WCiHPnbNpbBS-wxEf/view?usp=sharing)
-- The pretrained_model
+- The pretrained_model\
   [[resnet101-5be5422a.pth]](https://drive.google.com/file/d/1W-bKdYJCyunaKDVU-zucyJ20vKBryX4J/view?usp=sharing)
 
 ### Dataset:
